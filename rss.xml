@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>ovim</title>
+        <link>https://ovim.github.io/</link>
+        <description>ovim - programmer Blog</description>
+        <lastBuildDate>Sun, 08 Mar 2020 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <copyright>Copyright © 2021  Built with Docusaurus.&lt;p&gt;&lt;/p&gt;</copyright>
+        <item>
+            <title><![CDATA[超简单！使用 Docusaurus 搭建个人博客（二）]]></title>
+            <link>https://ovim.github.io/deploy-a-docusaurus-site-part2</link>
+            <guid>deploy-a-docusaurus-site-part2</guid>
+            <pubDate>Sun, 08 Mar 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[如果你看了上期视频的话，那么你应该学会了怎么在本地搭建一个 docusaurus 博客，但是你不能只在本地来看这个博客吧，得让全世界来欣赏你的杰作，所以说咱们得把这个博客部署到服务器上。部署有两种方式：]]></description>
+        </item>
+        <item>
+            <title><![CDATA[超简单！使用 Docusaurus 搭建个人博客（一）]]></title>
+            <link>https://ovim.github.io/deploy-a-docusaurus-site</link>
+            <guid>deploy-a-docusaurus-site</guid>
+            <pubDate>Tue, 03 Mar 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[我以前总也找不到一个满意的博客系统，wordpress 这个程序又大，然后配置也不方便。占用的服务器的资源也多。我就想有没有一个又简单又快速的博客平台，后来发现了一些静态的网站生成器，像 hexo 这种，但是发现上面的主题又不好看，又懒得自己去写。后来就有一阵子我就直接把博客就发布在了其他的第三方的博客平台上。现在发现了这个 docusaurus, 它的主题跟我之前看到的一个大佬 Dan Abramov，它的 overreacted.io 博客，风格是一模一样的，因为他是 react 的作者之一，估计这个他们这个样式都是互相借鉴，它这个主题可以切换暗黑和白天模式，比较好看。安装和部署也特别简单，我的博客也是用它这个搭建的。]]></description>
+        </item>
+    </channel>
+</rss>
