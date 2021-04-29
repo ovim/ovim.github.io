@@ -101,7 +101,7 @@ function BlogListPage(props) {
           name="keywords"
           content="后端, PHP, MySQL, Nginx, Apache, Linux, 服务器, ElasticSearch"
         />
-        <title>{title} - </title>
+        <title>{title} - 让每一行代码都有价值 && 让世界上没有难写的代码！！！</title>
       </Head>
       {/* 个人简介 */}
       {!isPaginated && (

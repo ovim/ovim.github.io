@@ -8,7 +8,7 @@ module.exports = {
   titleDelimiter: "-",
   url: "https://ovim.github.io/",
   baseUrl: "/",
-  favicon: "img/avatar.png",//"img/favicon.ico",
+  favicon: "img/favicon.svg",//"img/favicon.ico",
   organizationName: "ovim", // Usually your GitHub org/user name.
   projectName: "ovim.github.io", // Usually your repo name.
   themeConfig: {
@@ -20,11 +20,11 @@ module.exports = {
     },*/
     hideableSidebar: true,
     navbar: {
-      title: "ovim",
+      title: "<?php echo \"The Programming Docs of ovim\";",
       logo: {
-        alt: '<?php echo "The Programming Docs of ovim";',
-        src: "img/avatar.png",
-        srcDark: "img/avatar.png",
+        alt: "ovim's avatar",
+        src: "img/avatar.svg",
+        srcDark: "img/avatar.svg",
       },
       items: [
         {
