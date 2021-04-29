@@ -99,19 +99,36 @@ module.exports = {
           ],
         },
         {
-          title: "友情链接",
+          title: "Blog️",
           items: [
             {
-              label: "baby‘s csdn",
+              label: "xiaonizi️",
               to: "https://blog.csdn.net/weixin_45566227",
             },
             {
-              label: "ovim‘s cnblogs",
-              to: "https://www.cnblogs.com/ovim",
+              label: "huixin",
+              to: "https://www.shx1024.top/",
             },
+            {
+              label: "guangtouqiang",
+              to: "https://blog.csdn.net/qq_42249896/",
+            },
+          ],
+        },
+        {
+          title: "Blog",
+          items: [
             {
               label: "zxuqian.cn",
               to: "https://zxuqian.cn/",
+            },
+            {
+              label: "guangzan",
+              to: "https://www.cnblogs.com/guangzan/",
+            },
+            {
+              label: "fanzhen",
+              to: "https://www.cnblogs.com/fanzhen/",
             },
           ],
         },
