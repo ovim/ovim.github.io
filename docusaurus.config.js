@@ -210,7 +210,7 @@ module.exports = {
   ],
   i18n: {
     defaultLocale: "zh-CN",
-    locales: ["zh-CN", "en"],
+    locales: ["zh-CN"],
     localeConfigs: {
       "zh-CN": {
         label: "中文",
