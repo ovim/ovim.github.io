@@ -58,6 +58,9 @@ module.exports = {
         ],
       }
     ],
+    '助手函数': [
+        'php/helpers/functions'
+    ]
   },
   'Linux': [
     'linux/README',
