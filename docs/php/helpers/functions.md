@@ -25,3 +25,24 @@ function checkDateTime($date) {
     return false;
 }
 ```
+
+### 中文字符串超过长度截取
+
+```php
+/**
+ * 截取字符串，超过长度拼接...
+ *
+ * @param strign $str 被操作的字符串
+ * @param int $number 长度
+ * @return string
+ */
+function ovim_mb_substr($str, $number)
+{
+    $strlen = mb_strlen($str);
+    if ($strlen < $number) {
+        return $str;
+    } else {
+        return mb_substr($str, 0, $number) . '…';
+    }
+}
+```
