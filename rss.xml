@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>为牧</title>
+        <title>ovim</title>
         <link>https://ovim.github.io/</link>
         <description>ovim - programmer Blog</description>
         <lastBuildDate>Thu, 29 Apr 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <copyright>Copyright © 2021 为牧  Built with Docusaurus.&lt;p&gt;&lt;a href="http://beian.miit.gov.cn/"&gt;&lt;!--网站备案号--&gt;&lt;/a&gt;&lt;/p&gt;</copyright>
+        <copyright>Copyright © 2021 ovim  Built with Docusaurus.&lt;p&gt;&lt;a href="http://beian.miit.gov.cn/"&gt;&lt;!--网站备案号--&gt;&lt;/a&gt;&lt;/p&gt;</copyright>
         <item>
             <title><![CDATA[init]]></title>
             <link>https://ovim.github.io/init</link>
