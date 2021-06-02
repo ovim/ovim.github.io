@@ -3,8 +3,8 @@
     "message": "Hello! 我是",
     "description": "hero greet"
   },
-  "为牧": {
-    "message": "为牧",
+  "ovim": {
+    "message": "ovim",
     "description": "my name"
   },
   "homepage.qqgroup1": {
@@ -260,7 +260,7 @@
     "description": "Bilibili docs link label"
   },
   "homepage.hero.text": {
-    "message": "让每一行代码都有价值 && 让世界上没有难写的代码！！！",
+    "message": "Code change the world！！！",
     "description": "hero text"
   },
   "hompage.hero.text.course": {

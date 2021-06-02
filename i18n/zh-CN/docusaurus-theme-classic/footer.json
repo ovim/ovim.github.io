@@ -28,7 +28,7 @@
     "description": "The label of footer link with label=lookroot的个人空间 linking to https://www.lookroot.cn/"
   },
   "copyright": {
-    "message": "<p>Copyright © 2021 为牧  Built with Docusaurus.</p><p><a href=\"http://beian.miit.gov.cn/\" style=\"color: hsl(210deg, 100%, 80%)\"></a></p><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc/4.0/\">",
+    "message": "<p>Copyright © 2021 ovim  Built with Docusaurus.</p><p><a href=\"http://beian.miit.gov.cn/\" style=\"color: hsl(210deg, 100%, 80%)\"></a></p><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc/4.0/\">",
     "description": "The footer copyright"
   },
   "link.title.学习": {
