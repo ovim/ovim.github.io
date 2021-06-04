@@ -125,5 +125,8 @@ module.exports = {
     'docker/command',
     'docker/docker-dev-web',
     'docker/question'
+  ],
+  'base': [
+      'interview/base'
   ]
 };

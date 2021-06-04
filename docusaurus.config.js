@@ -64,6 +64,10 @@ module.exports = {
               label: "算法",
               to: "docs/algorithm/common",
             },
+            {
+              label: "整理",
+              to: "docs/interview/base",
+            },
           ],
         },
         {
