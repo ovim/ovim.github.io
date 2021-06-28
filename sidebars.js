@@ -55,6 +55,7 @@ module.exports = {
         'Laravel': [
           'php/laravel/laravel',
           'php/laravel/install',
+          'php/laravel/api-commonly-used',
         ],
       }
     ],

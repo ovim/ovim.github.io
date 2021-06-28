@@ -59,6 +59,17 @@ git remote set-url origin 【远端地址】
 
 ```
 
+## 常用操作
+
+### Git 免 账号、密码 操作
+
+命令： `vim your-project-path/.git/config` ，在文件中添加下面内容
+
+```bash
+[credential]
+  helper = store
+```
+
 
 
 
